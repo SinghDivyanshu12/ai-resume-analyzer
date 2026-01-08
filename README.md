@@ -63,6 +63,8 @@ npm run build
 
 ## Deployment on Netlify
 
+https://ds-ai-resume.netlify.app/
+
 
 
 
